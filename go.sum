@@ -1,0 +1,6 @@
+github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
+github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
+github.com/google/go-cmp v0.2.0 h1:+dTQ8DZQJz0Mb/HjFlkptS1FeQ4cWSnN941F8aEG4SQ=
+github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5aqRK0M=
+github.com/tebeka/selenium v0.9.4-0.20180503171259-a49cf4b98a36 h1:Fb7qZYhxbwuWpREV0gIG/lhzTwQj2M1xn9WIEa8vJ+A=
+github.com/tebeka/selenium v0.9.4-0.20180503171259-a49cf4b98a36/go.mod h1:eIMjt8y9rypiIrlx7TAlwwjiL8pr0uqZYQHUxhA2NNE=
